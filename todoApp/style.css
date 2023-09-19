@@ -303,9 +303,10 @@ input {
 .editBtn:active {
   transform: scale(0.8);
 }
+
 /* .boxBtns{
   display: flex;
-  gap: 13px;
+  gap: 15px;
 }
 .boxHideBtns {
   display: none;
